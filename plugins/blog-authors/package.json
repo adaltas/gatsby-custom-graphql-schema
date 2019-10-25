@@ -1,0 +1,12 @@
+{
+  "name": "blog-authors",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Sergei Kudinov <sergei@adaltas.com> (http://www.adaltas.com)",
+  "license": "MIT",
+  "scripts": {
+  },
+  "devDependencies": {},
+  "dependencies": {
+  }
+}
