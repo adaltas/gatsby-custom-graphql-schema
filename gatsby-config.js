@@ -34,14 +34,10 @@ module.exports = {
         name: 'markdown-pages',
       },
     },
-    'gatsby-transformer-yaml',
+    `gatsby-transformer-yaml`,
     `gatsby-transformer-remark`,
-    {
-      resolve: `blog-articles`,
-    }, {
-      resolve: `blog-authors`,
-    }, {
-      resolve: `blog-categories`,
-    },
+    `blog-articles`,
+    `blog-authors`,
+    `blog-categories`,
   ],
 }
